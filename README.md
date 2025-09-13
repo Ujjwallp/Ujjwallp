@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Featured Repositories  
-- 📘 [Java-Learning-Journey][([https://github.com/your-username/Java-Developer-Roadmap](https://github.com/Ujjwallp/Java-Developer-Roadmap))](https://github.com/Ujjwallp/Java-Developer-Roadmap) → Daily Notes + Code  
+- 📘 [Java-Learning-Journey](https://github.com/Ujjwallp/Java-Developer-Roadmap) → Daily Notes + Code  
 - 📂 Core-CS-Notes → OS, DBMS, CN, DSA  
 - 🏗️ Projects → Small to Medium scale Java projects  
 - 🧩 Weekly Challenges → Real-world coding practice  
