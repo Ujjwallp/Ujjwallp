@@ -1,40 +1,51 @@
-# 👋 Hi, I'm Ujjwal  
+# 👋 Hi, I'm Ujjwal Prakash  
 
-🚀 **Aspiring Java Developer** | 🎓 B.Tech Graduate | 💻 Core CS & DSA Learner  
-
----
-
-### 📌 About Me  
-- 🌱 On a **6-month journey** to become a Java Developer  
-- 🧑‍💻 Currently learning **Java + Core CS subjects (OS, DBMS, CN, DSA)**  
-- 📝 Writing **daily structured notes & practice questions** in Markdown  
-- 🔥 Goal: Crack my first Java Developer job after career gap  
+💻 **Aspiring Java Developer | Core CS Enthusiast | Problem Solver**  
 
 ---
 
-### 🚀 Featured Repositories  
-- 📘 [Java-Developer-Roadmap](https://github.com/Ujjwallp/Java-Developer-Roadmap) → Daily Notes + Code  
-- 📂 Core-CS-Notes → OS, DBMS, CN, DSA  
-- 🏗️ Projects → Small to Medium scale Java projects  
-- 🧩 Weekly Challenges → Real-world coding practice  
+## 🚀 About Me  
+- 🎓 B.Tech Graduate | Passionate about **Java & Core CS**  
+- 📚 Learning **Java Developer Roadmap** → OOP, DSA, DBMS, OS, CN, System Design  
+- 🔥 Goal: Become a **Job-Ready Java Backend Developer** in 6 months  
+- 🏆 Consistent learner → solving coding challenges & building projects  
 
 ---
 
-### 📊 GitHub Stats  
+## 🛠️ Tech Stack  
+**Languages & Core**  
+- Java ☕ | SQL | C  
 
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujjwallp&show_icons=true&theme=radical&count_private=true)  
+**CS Fundamentals**  
+- DSA | OOPs | OS | DBMS | CN  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwallp&layout=compact&theme=radical)  
+**Tools & Platforms**  
+- Git & GitHub | IntelliJ IDEA | VS Code  
+
+---
+
+## 📂 Featured Repositories  
+- 📘 [Java-Developer-Roadmap](https://github.com/Ujjwallp/Java-Developer-Roadmap) → Daily Notes + Practice Code  
+- 🗂️ [Core-CS-Notes](https://github.com/Ujjwallp/Core-CS-Notes) → OS, DBMS, CN, DSA  
+- 💡 [Projects](https://github.com/Ujjwallp?tab=repositories) → Small to Medium Java Projects  
+- 🏋️ [Weekly_Challenges](https://github.com/Ujjwallp/Java-Developer-Roadmap/tree/main/Weekly_Challenges) → Real-world coding practice  
 
 ---
 
-### 🛠️ Skills  
-`Java` `OOPs` `DSA` `Git & GitHub` `DBMS` `OS` `Computer Networks`  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwallp&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwallp&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-### 📫 Connect With Me  
-- 💼 LinkedIn → [Your LinkedIn Link]  
-- 📧 Email → your-email@gmail.com  
+## 🌍 Connect With Me  
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- 📧 your-email@gmail.com  
 
 ---
+
+## 🎯 Vision  
+> “Code. Learn. Build. Repeat.  
+> Consistency is the key to becoming a great developer 🚀.”
