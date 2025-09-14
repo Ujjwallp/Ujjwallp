@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 - 🎓 B.Tech Graduate | Passionate about **Java & Core CS**  
 - 📚 Learning **Java Developer Roadmap** → OOP, DSA, DBMS, OS, CN, System Design  
-- 🔥 Goal: Become a **Job-Ready Java Backend Developer** in 6 months  
+- 🔥 On a journey to become a Proficient Java Backend Developer, building skills through structured learning and real-world projects.  
 - 🏆 Consistent learner → solving coding challenges & building projects  
 
 ---
