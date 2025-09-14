@@ -41,8 +41,8 @@
 ---
 
 ## 🌍 Connect With Me  
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 📧 your-email@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/)  
+- 📧 UJJWALLP22@GMAIL.COM
 
 ---
 
