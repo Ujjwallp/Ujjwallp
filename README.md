@@ -1,51 +1,104 @@
-# 👋 Hi, I'm Ujjwal Prakash  
+👋 Hi, I’m Ujjwal Prakash
 
-💻 **Aspiring Java Developer | Core CS Enthusiast | Problem Solver**  
+Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.
+I enjoy building responsive, user-friendly web interfaces and turning ideas into clean, functional UI.
 
----
+⸻
 
-## 🚀 About Me  
-- 🎓 B.Tech Graduate | Passionate about **Java & Core CS**  
-- 📚 Learning **Java Developer Roadmap** → OOP, DSA, DBMS, OS, CN, System Design  
-- 🔥 On a journey to become a Proficient Java Backend Developer, building skills through structured learning and real-world projects.  
-- 🏆 Consistent learner → solving coding challenges & building projects  
+🚀 About Me
+	•	🎓 Bachelor of Technology – Lovely Professional University (2020–2024)
+	•	💻 Frontend Developer focused on clean UI & maintainable code
+	•	🌱 Currently improving React and modern frontend best practices
+	•	📌 Interested in real-world frontend projects and UI problem solving
 
----
+⸻
 
-## 🛠️ Tech Stack  
-**Languages & Core**  
-- Java ☕ | SQL | C  
+🛠️ Tech Stack
 
-**CS Fundamentals**  
-- DSA | OOPs | OS | DBMS | CN  
+Frontend
+	•	HTML5, CSS3
+	•	JavaScript (ES6+)
+	•	React.js
 
-**Tools & Platforms**  
-- Git & GitHub | IntelliJ IDEA | VS Code  
+Styling
+	•	Flexbox, Grid
+	•	Tailwind CSS
+	•	Responsive Design
 
----
+Tools
+	•	Git & GitHub
+	•	Chrome DevTools
+	•	VS Code
+	•	Netlify / Vercel
 
-## 📂 Featured Repositories  
-- 📘 [Java-Developer-Roadmap](https://github.com/Ujjwallp/Java-Developer-Roadmap) → Daily Notes + Practice Code  
-- 🗂️ [Core-CS-Notes](https://github.com/Ujjwallp/Core-CS-Notes) → OS, DBMS, CN, DSA  
-- 💡 [Projects](https://github.com/Ujjwallp?tab=repositories) → Small to Medium Java Projects  
-- 🏋️ [Weekly_Challenges](https://github.com/Ujjwallp/Java-Developer-Roadmap/tree/main/Weekly_Challenges) → Real-world coding practice  
+⸻
 
----
+📂 Projects
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwallp&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwallp&layout=compact&theme=radical" height="150"/>
-</p>
+🛒 Amazon Frontend Clone
 
----
+Tech: HTML, CSS, JavaScript
+	•	Built a responsive Amazon-style UI focusing on layout, product cards, and basic cart interactions.
+	•	Worked on clean spacing, alignment, and JavaScript-driven interactivity.
 
-## 🌍 Connect With Me  
-- 💼 [LinkedIn](https://linkedin.com/in/)  
-- 📧 UJJWALLP22@GMAIL.COM
+🔗 GitHub: add link
+🌐 Live: add link
 
----
+⸻
 
-## 🎯 Vision  
-> “Code. Learn. Build. Repeat.  
-> Consistency is the key to becoming a great developer 🚀.”
+✅ Todo List Application
+
+Tech: JavaScript, LocalStorage
+	•	Created a task manager allowing users to add, delete, and complete tasks.
+	•	Used LocalStorage to persist data across browser sessions.
+
+🔗 GitHub: add link
+🌐 Live: add link
+
+⸻
+
+📺 YouTube Clone (Frontend UI)
+
+Tech: HTML, CSS
+	•	Designed a YouTube-like interface with header, sidebar, and video grid layout.
+	•	Used Flexbox and Grid to ensure responsiveness across devices.
+
+🔗 GitHub: add link
+
+⸻
+
+⚛️ React Todo Application
+
+Tech: React.js
+	•	Built a todo application using React functional components and hooks.
+	•	Focused on reusable components and clean state management.
+
+🔗 GitHub: add link
+
+⸻
+
+🛍️ React E-commerce Frontend
+
+Tech: React.js
+	•	Developed a basic e-commerce frontend with product listing and shopping cart features.
+	•	Managed cart state and UI updates using React component architecture.
+
+🔗 GitHub: add link
+
+⸻
+
+📈 What I’m Working On
+	•	Improving React patterns and component architecture
+	•	Building more real-world frontend projects
+	•	Strengthening JavaScript fundamentals
+
+⸻
+
+📫 Contact Me
+	•	📧 Email: ujjwallp22@gmail.com
+	•	💼 LinkedIn: https://linkedin.com/in/saujjwal
+	•	💻 GitHub: https://github.com/Ujjwallp
+
+⸻
+
+⭐ Feel free to check out my repositories and projects. I’m always open to learning and collaboration.
