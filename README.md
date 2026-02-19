@@ -1,104 +1,104 @@
-👋 Hi, I’m Ujjwal Prakash
+# 👋 Hi, I'm Ujjwal Prakash  
 
-Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.
-I enjoy building responsive, user-friendly web interfaces and turning ideas into clean, functional UI.
+💻 Frontend Developer in progress  
+🎯 Focused on building real-world web projects and improving daily  
+📍 Sitamarhi, Bihar, India  
 
-⸻
+---
 
-🚀 About Me
-	•	🎓 Bachelor of Technology – Lovely Professional University (2020–2024)
-	•	💻 Frontend Developer focused on clean UI & maintainable code
-	•	🌱 Currently improving React and modern frontend best practices
-	•	📌 Interested in real-world frontend projects and UI problem solving
+## 🚀 About Me
 
-⸻
+- 🎓 B.Tech Computer Science graduate (2020–2024)
+- 🌱 Currently learning Frontend Development (HTML, CSS, JavaScript)
+- 🧠 Building projects from Scrimba Frontend Career Path
+- 💡 Interested in Web Development & UI Development
+- 🎯 Goal: Frontend Developer role
 
-🛠️ Tech Stack
+---
 
-Frontend
-	•	HTML5, CSS3
-	•	JavaScript (ES6+)
-	•	React.js
+## 🛠️ Skills
 
-Styling
-	•	Flexbox, Grid
-	•	Tailwind CSS
-	•	Responsive Design
+**Frontend**
+- HTML5
+- CSS3 (Flexbox, Responsive Design)
+- JavaScript (DOM, Events, Functions)
 
-Tools
-	•	Git & GitHub
-	•	Chrome DevTools
-	•	VS Code
-	•	Netlify / Vercel
+**Programming**
+- Java (Core basics)
 
-⸻
+**Tools**
+- Git & GitHub
+- VS Code
+- Netlify
 
-📂 Projects
+---
 
-🛒 Amazon Frontend Clone
+## 📂 Projects
 
-Tech: HTML, CSS, JavaScript
-	•	Built a responsive Amazon-style UI focusing on layout, product cards, and basic cart interactions.
-	•	Worked on clean spacing, alignment, and JavaScript-driven interactivity.
+### 🌐 Hometown Tourism Website
+Tourism webpage showcasing Sitamarhi culture, places, and cuisine.  
+**Tech:** HTML, CSS  
+🔗 https://github.com/Ujjwallp/Hometown  
 
-🔗 GitHub: add link
-🌐 Live: add link
+---
 
-⸻
+### 🪪 Digital Business Card
+Personal profile card UI with gradient styling.  
+**Tech:** HTML, CSS  
+🔗 https://github.com/Ujjwallp/Business-card  
 
-✅ Todo List Application
+---
 
-Tech: JavaScript, LocalStorage
-	•	Created a task manager allowing users to add, delete, and complete tasks.
-	•	Used LocalStorage to persist data across browser sessions.
+### 🏀 Basketball Scorecard
+Interactive scoreboard with score controls and reset.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://github.com/Ujjwallp/Basketball_scorecard  
 
-🔗 GitHub: add link
-🌐 Live: add link
+---
 
-⸻
+### 🎁 Birthday Gift Site
+Fun interactive birthday page with animations.  
+**Tech:** HTML, CSS  
+🔗 https://github.com/Ujjwallp/Birthday_gift_site  
 
-📺 YouTube Clone (Frontend UI)
+---
 
-Tech: HTML, CSS
-	•	Designed a YouTube-like interface with header, sidebar, and video grid layout.
-	•	Used Flexbox and Grid to ensure responsiveness across devices.
+### 🔢 Row Counter App
+JavaScript counter with increment, save, and reset features.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://github.com/Ujjwallp/Row-Counter  
 
-🔗 GitHub: add link
+---
 
-⸻
+### 🔍 Google Homepage Clone
+Layout clone of Google homepage UI.  
+**Tech:** HTML, CSS  
+🔗 https://github.com/Ujjwallp/Google_homepage_clone  
 
-⚛️ React Todo Application
+---
 
-Tech: React.js
-	•	Built a todo application using React functional components and hooks.
-	•	Focused on reusable components and clean state management.
+### 🚀 Space Exploration Site
+Basic informational website about space.  
+**Tech:** HTML, CSS  
+🔗 https://github.com/Ujjwallp/Space_exploration  
 
-🔗 GitHub: add link
+---
 
-⸻
+## 📚 Currently Learning
 
-🛍️ React E-commerce Frontend
+- Advanced CSS & Responsive Design  
+- JavaScript Interactivity  
+- DOM Manipulation  
+- Responsive Layouts  
 
-Tech: React.js
-	•	Developed a basic e-commerce frontend with product listing and shopping cart features.
-	•	Managed cart state and UI updates using React component architecture.
+---
 
-🔗 GitHub: add link
+## 📫 Connect With Me
 
-⸻
+- 📧 ujjwallp22@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/saujjwal  
+- 🧑‍💻 GitHub: https://github.com/Ujjwallp  
 
-📈 What I’m Working On
-	•	Improving React patterns and component architecture
-	•	Building more real-world frontend projects
-	•	Strengthening JavaScript fundamentals
+---
 
-⸻
-
-📫 Contact Me
-	•	📧 Email: ujjwallp22@gmail.com
-	•	💼 LinkedIn: https://linkedin.com/in/saujjwal
-	•	💻 GitHub: https://github.com/Ujjwallp
-
-⸻
-
-⭐ Feel free to check out my repositories and projects. I’m always open to learning and collaboration.
+⭐ *Consistently building frontend projects and improving UI skills daily.*
