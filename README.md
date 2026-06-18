@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Prakash</h1>
+# Hi 👋, I'm Ujjwal Prakash
 
 <p align="center">
-Frontend Developer • React Enthusiast • Building Real-World Web Applications
+Frontend Developer | React.js | JavaScript | Tailwind CSS | Firebase
 </p>
 
 <p align="center">
@@ -14,30 +14,23 @@ Frontend Developer • React Enthusiast • Building Real-World Web Applications
 
 ## 👨‍💻 About Me
 
-I'm a Frontend Developer focused on building modern, responsive, and user-friendly web applications.
+Frontend Developer with hands-on experience building responsive and modern web applications using React, JavaScript, Tailwind CSS, and Firebase.
 
-My interests include:
-
-- Building scalable React applications
-- Creating intuitive user experiences
-- Working with APIs and modern web technologies
-- Turning ideas into real-world products
+I enjoy creating clean user interfaces, integrating APIs, and building real-world products focused on performance, usability, and user experience.
 
 ---
 
 # 🚀 Featured Projects
 
-## 💼 JobPilot
+## 💼 JobPilot — Job Application Tracker
 
-A modern job application tracking platform that helps users manage applications, track interview stages, and organize their job search.
+A modern job application management platform that enables users to track applications, monitor interview stages, and organize job searches efficiently.
 
-### Preview
+<p align="center">
+<img src="./assets/jobpilot.png" alt="JobPilot">
+</p>
 
-![JobPilot](./assets/jobpilot.png)
-
-**Tech Stack**
-
-React • Firebase • Firestore • Tailwind CSS • React Router
+**Tech Stack:** React, Vite, Tailwind CSS, Firebase Authentication, Cloud Firestore, React Router
 
 🔗 **Live Demo:** https://jobpilot-web.netlify.app/
 
@@ -45,79 +38,78 @@ React • Firebase • Firestore • Tailwind CSS • React Router
 
 ---
 
-## 🎬 NextWatch
+## 🎬 NextWatch — Movie Discovery Platform
 
-A movie discovery platform powered by TMDB API featuring advanced search, watchlists, and a modern streaming-inspired UI.
+A movie and TV discovery application powered by TMDB API featuring advanced search, watchlists, and a modern streaming-inspired interface.
 
-### Preview
+<p align="center">
+<img src="./assets/nextwatch.png" alt="NextWatch">
+</p>
 
-![NextWatch](./assets/nextwatch.png)
-
-**Tech Stack**
-
-React • TMDB API • Framer Motion • Tailwind CSS
+**Tech Stack:** React, Vite, Tailwind CSS, Framer Motion, TMDB API, Context API
 
 🔗 **Live Demo:** https://next-watch-web.vercel.app/
 
 🔗 **Repository:** https://github.com/Ujjwallp/NextWatch_web
+
 ---
 
-## 🏛️ Sitamarhi Hometown
+## 🏛️ Sitamarhi Hometown — Tourism & Heritage Portal
 
 A tourism and heritage portal showcasing the culture, history, attractions, governance, and geography of Sitamarhi.
 
-### Preview
+<p align="center">
+<img src="./assets/sitamarhi.png" alt="Sitamarhi">
+</p>
 
-![Sitamarhi](./assets/sitamarhi.png)
-
-**Tech Stack**
-
-React • Tailwind CSS • React Leaflet • Framer Motion
+**Tech Stack:** React, Vite, Tailwind CSS, React Leaflet, Framer Motion
 
 🔗 **Live Demo:** https://sitamarhi-hometown-web.vercel.app/
 
 🔗 **Repository:** https://github.com/Ujjwallp/Sitamarhi_hometown_web
 
-# 🛠 Tech Stack
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### Styling
-
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ujjwallp&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ujjwallp&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwallp&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwallp&layout=compact&theme=transparent" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 📫 Connect With Me
 
-📧 ujjwallp22@gmail.com
+📧 **Email:** ujjwallp22@gmail.com
 
-💼 LinkedIn: linkedin.com/in/saujjwal
+💼 **LinkedIn:** https://www.linkedin.com/in/saujjwal
+
+🐙 **GitHub:** https://github.com/Ujjwallp
