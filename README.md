@@ -1,104 +1,86 @@
-# 👋 Hi, I'm Ujjwal Prakash  
+# 👋 Hi, I'm Ujjwal Prakash
 
-💻 Frontend Developer in progress  
-🎯 Focused on building real-world web projects and improving daily  
+Frontend Developer passionate about building modern, responsive, and user-focused web applications using React.js and modern web technologies.
+
 📍 Sitamarhi, Bihar, India  
+📧 ujjwallp22@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/saujjwal  
+🧑‍💻 GitHub: https://github.com/Ujjwallp
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science graduate (2020–2024)
-- 🌱 Currently learning Frontend Development (HTML, CSS, JavaScript)
-- 🧠 Building projects from Scrimba Frontend Career Path
-- 💡 Interested in Web Development & UI Development
-- 🎯 Goal: Frontend Developer role
+- 🎓 B.Tech Graduate in Computer Science & Engineering
+- 💻 Frontend Developer specializing in React.js
+- ⚡ Experienced in building responsive web applications and modern user interfaces
+- 🎯 Interested in frontend engineering, UI development, and web technologies
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-**Frontend**
+### Frontend
 - HTML5
-- CSS3 (Flexbox, Responsive Design)
-- JavaScript (DOM, Events, Functions)
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- React Router
 
-**Programming**
-- Java (Core basics)
+### Styling & UI
+- Tailwind CSS
+- Framer Motion
+- Responsive Design
+- Flexbox
+- CSS Grid
 
-**Tools**
-- Git & GitHub
+### Backend & Database
+- Firebase Authentication
+- Cloud Firestore
+
+### Tools
+- Git
+- GitHub
+- Vite
 - VS Code
 - Netlify
+- Vercel
 
 ---
 
-## 📂 Projects
+## 🌟 Featured Projects
 
-### 🌐 Hometown Tourism Website
-Tourism webpage showcasing Sitamarhi culture, places, and cuisine.  
-**Tech:** HTML, CSS  
-🔗 https://github.com/Ujjwallp/Hometown  
+### 🚀 JobPilot — Job Application Tracking Platform
+Built a job application tracking platform enabling users to manage applications, track interview stages, and organize job searches efficiently.
 
----
-
-### 🪪 Digital Business Card
-Personal profile card UI with gradient styling.  
-**Tech:** HTML, CSS  
-🔗 https://github.com/Ujjwallp/Business-card  
+**Tech Stack:** React.js, Firebase Authentication, Cloud Firestore, Tailwind CSS, React Router
 
 ---
 
-### 🏀 Basketball Scorecard
-Interactive scoreboard with score controls and reset.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 https://github.com/Ujjwallp/Basketball_scorecard  
+### 🎬 NextWatch — Movie Discovery Platform
+Built a movie and TV discovery platform integrating the TMDB API for trending content, search, and streaming availability.
+
+**Tech Stack:** React.js, TMDB API, Tailwind CSS, Framer Motion, Context API
 
 ---
 
-### 🎁 Birthday Gift Site
-Fun interactive birthday page with animations.  
-**Tech:** HTML, CSS  
-🔗 https://github.com/Ujjwallp/Birthday_gift_site  
+### 🏛️ Sitamarhi Hometown — Tourism & Heritage Portal
+Developed a tourism and heritage portal showcasing culture, history, attractions, governance, and district information.
+
+**Tech Stack:** React.js, React Leaflet, Tailwind CSS, Framer Motion
 
 ---
 
-### 🔢 Row Counter App
-JavaScript counter with increment, save, and reset features.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 https://github.com/Ujjwallp/Row-Counter  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujjwallp&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwallp&layout=compact)
 
 ---
 
-### 🔍 Google Homepage Clone
-Layout clone of Google homepage UI.  
-**Tech:** HTML, CSS  
-🔗 https://github.com/Ujjwallp/Google_homepage_clone  
+### 📫 Connect With Me
 
----
-
-### 🚀 Space Exploration Site
-Basic informational website about space.  
-**Tech:** HTML, CSS  
-🔗 https://github.com/Ujjwallp/Space_exploration  
-
----
-
-## 📚 Currently Learning
-
-- Advanced CSS & Responsive Design  
-- JavaScript Interactivity  
-- DOM Manipulation  
-- Responsive Layouts  
-
----
-
-## 📫 Connect With Me
-
-- 📧 ujjwallp22@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/saujjwal  
-- 🧑‍💻 GitHub: https://github.com/Ujjwallp  
-
----
-
-⭐ *Consistently building frontend projects and improving UI skills daily.*
+- Email: ujjwallp22@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saujjwal
+- GitHub: https://github.com/Ujjwallp
